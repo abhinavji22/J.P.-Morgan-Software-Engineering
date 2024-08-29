@@ -1,12 +1,6 @@
 
 ### # Task 1: Interface with a stock price data feed
 Aim: Interface with a stock price data feed and set up your system for analysis of the data
-
-#### Prerequisite
-- [Python Installation](https://iamvishalprasad.blogspot.com/2023/06/python-installation.html#more)
-- [PyCharm Installation](https://iamvishalprasad.blogspot.com/2023/06/pycharm-installation.html#more)
-- [Git Installation](https://iamvishalprasad.blogspot.com/2023/06/git-installation.html#more)
-- [Visual Studio Code Installation](https://iamvishalprasad.blogspot.com/2023/06/visual-studio-code-installation.html#more)
   
 #### Clone your project using Command Prompt:
 ```ruby
